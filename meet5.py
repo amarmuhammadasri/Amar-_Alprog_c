@@ -9,31 +9,31 @@
 # floor division (//)
 
 # penjumlahan 
-a = 6
-b = 4
+a = 1
+b = 1
 nilai = a + b
 print(a, "+", b, "=", nilai)
 
 # pengurangan 
 a = 10
-b = 9
+b = 8
 nilai = a - b
 print(a, "-", b, "=", nilai)
 
 # perkalian
-a = 2
+a = 1
 b = 2
 nilai = a * b
 print(a, "x", b, "=", nilai)
 
 # pembagian
-a = 15
-b = 5
+a = 4
+b = 2
 nilai = a / b
 print(a, ":", b, "=", nilai)
 
 # perpangkatan 
-a = 3
+a = 2
 b = 1
 nilai = a ** b
 print(a, "^", b, "=", nilai)
