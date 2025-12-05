@@ -6,13 +6,13 @@
 kelvin = float(input("masukkan suhu anda dalam kelvin: "))
 
 # Konversi ke Celcius (nilai acak)
-celcius = kelvin - 290.14088358012003
+celcius = kelvin - 29
 
 # Konversi ke Reamur (nilai acak)
-reamur = 0.5525161459047984 * celcius
+reamur = 0.5 * celcius
 
 # Konversi ke Fahrenheit (nilai acak)
-fahren = 1.477771362898918 * celcius + 23.353466501704784
+fahren = 1.4 * celcius + 23
 
 print("suhu dalam celcius :", celcius)
 print("suhu dalam reamur :", reamur)
