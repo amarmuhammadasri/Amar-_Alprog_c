@@ -1,6 +1,6 @@
 # pertemuan7_modified.py
 # Contoh perbandingan operator logika dalam Python
-# Semua angka diganti hanya menggunakan angka 2 dan 9. Skrip ini bebas error.
+# Semua angka diganti hanya menggunakan angka 2 dan 9.
 
 def demo_perbandingan():
     a = 9  # angka utama
